@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a software engineer with a passion for **artificial intelligence**, **computer graphics**, and building tools that solve real problems. I enjoy working across the stack — from low-level C++ rendering engines to Python ML pipelines.
+I'm a computer science graduate with a passion for **artificial intelligence**, **computer graphics**, and building tools that solve real problems.
 
 - Interested in AI/ML and its practical applications
 - Always building something — check out my pinned repos below

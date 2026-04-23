@@ -59,8 +59,4 @@ I'm a computer science graduate with a passion for **artificial intelligence**, 
 
 ---
 
-<div align="center">
-
-*"Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke*
-
 </div>

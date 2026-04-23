@@ -2,7 +2,7 @@
 
 # Hi, I'm Murat 👋
 
-### Software Engineer · AI Enthusiast · Graphics Nerd
+### Software Engineer · AI Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muratoney.github.io-blue?style=flat-square&logo=github)](https://muratoney.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-muratoney-181717?style=flat-square&logo=github)](https://github.com/muratoney)
@@ -15,10 +15,9 @@
 
 I'm a software engineer with a passion for **artificial intelligence**, **computer graphics**, and building tools that solve real problems. I enjoy working across the stack — from low-level C++ rendering engines to Python ML pipelines.
 
-- 🤖 Interested in AI/ML and its practical applications
-- 🎨 Love the intersection of math and graphics (ray tracing, inverse kinematics)
-- 🛠️ Always building something — check out my pinned repos below
-- 🎮 Game modding and simulation on the side
+- Interested in AI/ML and its practical applications
+- Always building something — check out my pinned repos below
+- Game modding and simulation on the side
 
 ---
 
@@ -39,15 +38,6 @@ I'm a software engineer with a passion for **artificial intelligence**, **comput
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muratoney&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratoney&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
 
 <div align="center">
 

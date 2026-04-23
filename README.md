@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Murat 👋
+# Hi, I'm Murat
 
 ### Software Engineer · AI Enthusiast
 

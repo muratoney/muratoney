@@ -51,12 +51,11 @@ I'm a computer science graduate with a passion for **artificial intelligence**, 
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤖 [AI-480-project](https://github.com/muratoney/AI-480-project) | CSC 480 Artificial Intelligence Project | Python |
-| 🖥️ [simple-raytracer](https://github.com/muratoney/simple-raytracer) | CPU-rendered ray tracer from scratch | C++ |
-| 🦾 [FABRIK](https://github.com/muratoney/FABRIK) | Forward And Backward Reaching Inverse Kinematics | Java |
-| 📁 [Desktop-Organizer](https://github.com/muratoney/Desktop-Organizer) | Automated desktop file organizer | Python |
-| 🎮 [PibbleMod](https://github.com/muratoney/PibbleMod) | Game modification project | Java |
-| 🌐 [muratoney.github.io](https://github.com/muratoney/muratoney.github.io) | Personal portfolio website | JavaScript |
+| [simple-raytracer](https://github.com/muratoney/simple-raytracer) | CPU-rendered ray tracer from scratch | C++ |
+| [alpha-limber](https://github.com/muratoney/FABRIK) | Minecraft mod implementing inverse kinematics | Java |
+| [Desktop-Organizer](https://github.com/muratoney/Desktop-Organizer) | Automated desktop file organizer | Python |
+| [PibbleMod](https://github.com/muratoney/PibbleMod) | Game modification project | Java |
+| [muratoney.github.io](https://github.com/muratoney/muratoney.github.io) | Personal portfolio website | JavaScript |
 
 ---
 

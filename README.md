@@ -37,15 +37,15 @@ I'm a software engineer with a passion for **artificial intelligence**, **comput
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+<!---
 
-<!-- <div align="center">
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=muratoney&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div> -->
+</div> 
 
----
+--- -->
 
 ## Featured Projects
 
